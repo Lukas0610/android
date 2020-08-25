@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<!-- Device -->
+	<project path="device/samsung/starlte" name="LineageOS/android_device_samsung_starlte" />
+	<project path="device/samsung/star2lte" name="LineageOS/android_device_samsung_star2lte" />
+	<project path="device/samsung/universal9810-common" name="Lukas0610/android_device_samsung_universal9810-common" />
+
+	<!-- Kernel -->
+	<project path="kernel/samsung/universal9810" name="Lukas0610/android_kernel_samsung_universal9810" />
+
+	<!-- Hardware -->
+	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" />
+
+	<!-- Prebuilts -->
+	<project path="prebuilts/linaro" name="Lukas0610/android_prebuilts_linaro" />
+
+	<!-- Vendor -->
+	<project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" />
+
+</manifest>
